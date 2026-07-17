@@ -1,6 +1,6 @@
 # Luis Felipe Rodríguez Arce 👋
 > **Data Science & Analytics**
-> _Construyendo soluciones de datos basadas en la práctica diaria, la consistencia y la resolución de problemas._
+> _Construuyendo soluciones de datos basadas en la práctica diaria, la consistencia y la resolución de problemas._
 
 ---
 
@@ -15,7 +15,7 @@ A través de este espacio documento mi evolución técnica día con día con tot
 ### ⏳ En Qué Trabajo Todos los Días
 * 🛠️ **Consistencia en Código y Estructura:** Práctica diaria enfocada en el diseño de modelos entidad-relación, bases de datos eficientes y código limpio.
 * 📊 **Enfoque de Negocio:** Aplicando las herramientas técnicas a escenarios y problemas reales para asegurar que cada análisis aporte valor.
-* 📂 **Transparencia Técnica:** Manteniendo mis repositorios actualizados continuamente con mis avances y lógica aplicada.
+* 📂 **Transparencia Técnico-Operativa:** Manteniendo mis repositorios actualizados continuamente con mis avances y lógica aplicada.
 
 ---
 
@@ -26,12 +26,17 @@ A través de este espacio documento mi evolución técnica día con día con tot
 
 ---
 
-### 📜 Formación y Credenciales
+### 🏆 Certificaciones Destacadas (Top 5)
 
 | Institución | Programa / Credencial | Estado |
 | :--- | :--- | :---: |
 | **Programa Especializado** | Especialización en Ciencia de Datos | `Estudiando Diariamente ⏳` |
 | **Formación Técnica** | Diseño y Optimización de Bases de Datos (SQL) | `Completado ✅` |
+| _[Espacio disponible]_ | _Próxima certificación clave_ | `-` |
+| _[Espacio disponible]_ | _Próxima certificación clave_ | `-` |
+| _[Espacio disponible]_ | _Próxima certificación clave_ | `-` |
+
+> 📂 **¿Quieres ver mi historial completo?** Puedes revisar todas mis credenciales, cursos complementarios y respaldos académicos detallados en mi [Historial Completo de Certificaciones ↗️](https://github.com/luisrodriguezarce55-lab/data-science-journal/tree/main/certificados).
 
 ---
 
