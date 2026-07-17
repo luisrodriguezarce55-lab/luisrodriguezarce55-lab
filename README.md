@@ -53,4 +53,30 @@ A robust project covering the entire data lifecycle: from Entity-Relationship Di
 My practice in SQL: Entity-relationship modeling (ERD), query optimization, data joins (`JOINs`), and applied logic for structuring relational databases.
 
 #### 🐍 [Python Portfolio](https://github.com/luisrodriguezarce55-lab/portfolio-python)
-My practice in Python: Exploratory Data Analysis (EDA), dataset cleaning
+My practice in Python: Exploratory Data Analysis (EDA), dataset cleaning, data manipulation, and data analysis workflow automation.
+
+---
+
+### 📝 Class Notes & Daily Labs
+
+#### 🗒️ [Technical Development Journal](https://github.com/luisrodriguezarce55-lab/data-science-journal)
+My daily academic consistency: Structured logs of class notes, practical exercises, weekly coding challenges, and curriculum lab assignments. This repository provides evidence of my discipline and technical evolution day by day.
+
+---
+
+### 🏆 Featured Certifications (Top 5)
+
+| Institution | Program / Credencial | Status |
+| :--- | :--- | :---: |
+| **Specialized Program** | Data Science Specialization | Studying Daily ⏳ |
+| **Technical Training** | Database Design & Optimization (SQL) | Completed ✅ |
+| _[Available Slot]_ | _Next key certification_ | - |
+| _[Available Slot]_ | _Next key certification_ | - |
+| _[Available Slot]_ | _Next key certification_ | - |
+
+📂 **Looking for my full background?** You can review all my credentials, complementary coursework, and detailed academic support in my [Full Certification History](https://github.com/luisrodriguezarce55-lab/data-science-journal/tree/main/certificados).
+
+---
+
+### ✉️ Let's Connect
+* 💼 **LinkedIn:** [Professional LinkedIn Profile](https://linkedin.com/)
