@@ -21,7 +21,22 @@ A través de este espacio documento mi evolución técnica día con día con tot
 
 ### 🛠️ Herramientas en Ejecución Daily
 
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+* **Bases de Datos & Estructura (SQL)**
+  <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a> <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Modelado_DER-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Modelado DER" /></a>
+  * **Estructura Core:** Consultas base (`SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`).
+  * **Combinación de Datos:** Uniones avanzadas (`INNER`, `LEFT`, `RIGHT`, `FULL OUTER JOIN`).
+  * **Modelado Lógico:** Diseño de Modelos Entidad-Relación (DER), normalización y definición de llaves primarias/foráneas.
+
+* **Análisis de Datos & Entornos (Python)**
+  <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a> <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /></a> <a href="#herramientas-en-ejecución-daily"></a>
+  * **Manipulación de Datos:** Limpieza de datos nulos, filtrado, ordenamiento y transformaciones con `Pandas`.
+  * **Visualización Estática & EDA:** Creación de gráficos informativos (histogramas, diagramas de dispersión, boxplots) usando `Matplotlib` y `Seaborn`.
+  * **Análisis Exploratorio:** Identificación de patrones, tendencias y preparación de sets de datos para su posterior modelado o reporte.
+
+* **Visualización de Datos & BI**
+  <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a> <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
+  * **Modelado de Reportes:** Conexión a fuentes de datos limpias (tablas de SQL o DataFrames procesados).
+  * **Diseño de Dashboards:** Creación de gráficos interactivos y visualizaciones claras orientadas a métricas de negocio.
 
 ---
 
