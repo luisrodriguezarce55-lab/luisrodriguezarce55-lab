@@ -1,52 +1,52 @@
 # Luis Felipe Rodríguez Arce 👋
-> **En Transición Activa hacia Data Science & Analytics**
-> _Construyendo soluciones sólidas, documentando mi aprendizaje diario y buscando mi primera oportunidad técnica._
+> **Data Science & Analytics**
+> _Construyendo soluciones de datos basadas en la práctica diaria, la consistencia y la resolución de problemas._
 
 ---
 
-### 👤 Mi Enfoque y Compromiso
+### 👤 Mi Filosofía y Enfoque
 
-Soy Ingeniero Industrial con énfasis en logística, pero hoy **estoy invirtiendo el 100% de mi enfoque, disciplina y energía en dominar la Ciencia de Datos**. No busco solo acumular certificados; mi meta real es desarrollar un criterio técnico impecable. 
+No busco definir mi perfil con títulos teóricos; **dejo que mi trabajo diario y los resultados de mis proyectos hablen por mí.** Mi enfoque actual está invertido al 100% en estudiar, practicar y perfeccionar mis habilidades en Ciencia de Datos y Analítica.
 
-A través de este portafolio documento mi evolución paso a paso: desde la optimización de una consulta en SQL hasta la estructura de un script en Python. Estoy aquí para demostrar consistencia, capacidad para resolver problemas bajo una sólida estructura metodológica y, sobre todo, el compromiso de hacer las cosas bien desde el día uno.
-
----
-
-### ⏳ Mi Ruta de Aprendizaje Activo (En qué estoy trabajando hoy)
-* 📐 **Estructuración Técnica:** Creando código limpio, documentado y fácil de mantener.
-* 🧠 **Práctica Intensiva:** Desarrollando proyectos basados en problemas reales de negocio y logística para aplicar la teoría de forma inmediata.
-* 📂 **Modularidad:** Manteniendo este portafolio actualizado semanalmente con mis avances reales y notas de clase.
+A través de este espacio documento mi evolución técnica día con día con total transparencia. Cada consulta en SQL, cada script en Python y cada dashboard que comparto es el reflejo de mi disciplina y de un compromiso real por hacer las cosas bien desde la base. Como valor agregado, cuento con un trasfondo en Ingeniería Industrial que me aporta una mentalidad lógica, metódica y orientada a la optimización de procesos de negocio.
 
 ---
 
-### 🛠️ Data Tech Stack
-* **Bases de Datos:** `Microsoft SQL Server` | `PostgreSQL` | `MySQL`
-* **Programación:** `Python` | `Pandas` | `NumPy` | `Jupyter Notebooks`
+### ⏳ En Qué Trabajo Todos los Días
+* 🛠️ **Consistencia en Código:** Práctica diaria enfocada en escribir código limpio, documentado y funcional.
+* 📊 **Enfoque de Negocio:** Aplicando las herramientas técnicas a escenarios y problemas reales para asegurar que cada análisis aporte valor.
+* 📂 **Transparencia Técnica:** Manteniendo mis repositorios actualizados continuamente con mis avances y lógica aplicada.
+
+---
+
+### 🛠️ Herramientas en Ejecución Daily
+* **Bases de Datos / SQL:** `Microsoft SQL Server` | `PostgreSQL` | `MySQL`
+* **Programación / Python:** `Python` | `Pandas` | `NumPy` | `Jupyter Notebooks`
 * **Visualización:** `Power BI` | `Tableau`
 
 ---
 
-### 📜 Certificaciones Destacadas
+### 📜 Formación y Credenciales
 
 | Institución | Programa / Credencial | Estado |
 | :--- | :--- | :---: |
-| **Gobernanza / Programa Especializado** | Especialización Avanzada en Ciencia de Datos | `Estudiando Intensivamente ⏳` |
+| **Programa Especializado** | Especialización en Ciencia de Datos | `Estudiando Diariamente ⏳` |
 | **Formación Técnica** | Diseño y Optimización de Bases de Datos (SQL) | `Completado ✅` |
 
 ---
 
-### 📁 Repositorios Especializados
+### 📁 Repositorios y Evidencia de Trabajo
 
 #### 📊 [Portafolio SQL](https://github.com/luisrodriguezarce55-lab/portfolio-sql)
-> **Enfoque técnico:** Modelado relacional, optimización de queries, uniones avanzadas (JOINs) y lógica de negocio en bases de datos.
+> **Mi práctica en SQL:** Modelado relacional de datos, optimización de queries, uniones (JOINs) y lógica aplicada a la resolución de problemas analíticos.
 
 #### 🐍 [Portafolio Python](https://github.com/luisrodriguezarce55-lab/portfolio-python)
-> **Enfoque técnico:** Análisis exploratorio de datos (EDA), limpieza de datasets masivos, automatización de scripts y analítica predictiva.
+> **Mi práctica en Python:** Análisis exploratorio de datos (EDA), limpieza de datasets, manipulación de datos y automatización de procesos.
 
-#### 📝 [Bitácora de Aprendizaje](https://github.com/luisrodriguezarce55-lab/data-science-journal)
-> **Evolución diaria:** Documentación de mi proceso académico, retos de código semanales y prácticas aplicadas de clase. Aquí se ve mi consistencia diaria.
+#### 📝 [Bitácora de Desarrollo Técnico](https://github.com/luisrodriguezarce55-lab/data-science-journal)
+> **Mi constancia diaria:** Registro estructurado de mis apuntes de clase, ejercicios prácticos y retos de código semanales. Aquí se ve mi evolución real.
 
 ---
 
-### ✉️ Contacto
-* 💼 **LinkedIn:** [Conectemos en LinkedIn ↗️](https://linkedin.com/)
+### ✉️ Conectemos
+* 💼 **LinkedIn:** [Perfil Profesional de LinkedIn ↗️](https://linkedin.com/)
