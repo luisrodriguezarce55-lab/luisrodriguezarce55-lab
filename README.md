@@ -1,78 +1,56 @@
 # Luis Felipe Rodríguez Arce 👋
 > **Data Science & Analytics**
-> _Construyendo soluciones de datos basadas en la práctica diaria, la consistencia y la resolución de problemas._
+> _Building data solutions driven by daily practice, consistency, and structured problem-solving._
 
 ---
 
-### 👤 Mi Filosofía y Enfoque
-
-No busco definir mi perfil con títulos teóricos; **dejo que mi trabajo diario y los resultados de mis proyectos hablen por mí.** Mi enfoque actual está invertido al 100% en estudiar, practicar y perfeccionar mis habilidades en Ciencia de Datos y Analítica.
-
-A través de este espacio documento mi evolución técnica día con día con total transparencia. Cada modelo, consulta o script que comparto es el reflejo de mi disciplina y de un compromiso real por hacer las cosas bien desde la base. Como valor agregado, cuento con un trasfondo en Ingeniería Industrial que me aporta una mentalidad lógica, metódica y orientada a la optimización de procesos de negocio.
+🌐 **Language / Idioma:** [<img src="https://img.shields.io/badge/Ver_en_Español-🇪🇸-ebd4cb?style=for-the-badge&logoColor=black" alt="Ver en Español" />](README.es.md)
 
 ---
 
-### ⏳ En Qué Trabajo Todos los Días
-* **Consistencia en Código y Estructura:** Práctica diaria enfocada en el diseño de modelos entidad-relación, bases de datos eficientes y código limpio.
-* **Enfoque de Negocio:** Aplicando las herramientas técnicas a escenarios y problemas reales para asegurar que cada análisis aporte valor.
-* **Transparencia Técnico-Operativa:** Manteniendo mis repositorios actualizados continuamente con mis avances y lógica aplicada.
+### 👤 My Philosophy & Approach
+
+I do not look to define my profile with theoretical titles; **I let my daily work and project results speak for me.** My current focus is 100% invested in studying, practicing, and mastering my skills in Data Science and Analytics.
+
+Through this space, I document my technical progression day by day with total transparency. Every model, query, or script I share reflects my discipline and a genuine commitment to building solid foundations. As an added value, my background in Industrial Engineering provides me with a logical, methodical mindset oriented toward optimizing business processes.
 
 ---
 
-### 🛠️ Herramientas en Ejecución Daily
-
-* **Bases de Datos & Estructura (SQL)**
-  <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a> <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Modelado_DER-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Modelado DER" /></a>
-  * **Estructura Core:** Consultas base (`SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`).
-  * **Combinación de Datos:** Uniones avanzadas (`INNER`, `LEFT`, `RIGHT`, `FULL OUTER JOIN`).
-  * **Modelado Lógico:** Diseño de Modelos Entidad-Relación (DER), normalización y definición de llaves primarias/foráneas.
-
-* **Análisis de Datos & Entornos (Python)**
-  <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a> <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /></a> <a href="#herramientas-en-ejecución-daily"></a>
-  * **Manipulación de Datos:** Limpieza de datos nulos, filtrado, ordenamiento y transformaciones con `Pandas`.
-  * **Visualización Estática & EDA:** Creación de gráficos informativos (histogramas, diagramas de dispersión, boxplots) usando `Matplotlib` y `Seaborn`.
-  * **Análisis Exploratorio:** Identificación de patrones, tendencias y preparación de sets de datos para su posterior modelado o reporte.
-
-* **Visualización de Datos & BI**
-  <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a> <a href="#herramientas-en-ejecución-daily"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
-  * **Modelado de Reportes:** Conexión a fuentes de datos limpias (tablas de SQL o DataFrames procesados).
-  * **Diseño de Dashboards:** Creación de gráficos interactivos y visualizaciones claras orientadas a métricas de negocio.
+### ⏳ What I Work On Every Day
+* **Consistency in Code & Structure:** Daily practice focused on entity-relationship model design, efficient databases, and clean code.
+* **Business-Driven Mindset:** Applying technical tools to real-world scenarios and problems to ensure every analysis delivers business value.
+* **Technical-Operational Transparency:** Continuously updating my repositories with my progress and applied logic.
 
 ---
 
-### 🏆 Certificaciones Destacadas (Top 5)
+### 🛠️ Tools in Daily Execution
 
-| Institución | Programa / Credencial | Estado |
-| :--- | :--- | :---: |
-| **Programa Especializado** | Especialización en Ciencia de Datos | Estudiando Diariamente ⏳ |
-| **Formación Técnica** | Diseño y Optimización de Bases de Datos (SQL) | Completado ✅ |
-| _[Espacio disponible]_ | _Próxima certificación clave_ | - |
-| _[Espacio disponible]_ | _Próxima certificación clave_ | - |
-| _[Espacio disponible]_ | _Próxima certificación clave_ | - |
+* **Databases & Structure (SQL)**
+  <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/ER_Modeling-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="ER Modeling" /></a>
+  * **Core Structure:** Baseline queries (`SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`).
+  * **Data Combination:** Advanced joins (`INNER`, `LEFT`, `RIGHT`, `FULL OUTER JOIN`).
+  * **Logical Modeling:** Entity-Relationship Diagram (ERD) design, normalization, and primary/foreign key definitions.
 
-📂 **¿Quieres ver mi historial completo?** Puedes revisar todas mis credenciales, cursos complementarios y respaldos académicos detallados en mi [Historial Completo de Certificaciones](https://github.com/luisrodriguezarce55-lab/data-science-journal/tree/main/certificados).
+* **Data Analysis & Environments (Python)**
+  <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /></a> <a href="#tools-in-daily-execution"></a>
+  * **Data Manipulation:** Null value handling, filtering, sorting, and data transformations using `Pandas`.
+  * **Static Visualization & EDA:** Developing informative charts (histograms, scatter plots, boxplots) using `Matplotlib` and `Seaborn`.
+  * **Exploratory Data Analysis:** Identifying patterns, trends, and preparing datasets for subsequent modeling or reporting.
 
----
-
-### 📁 Proyectos y Evidencia de Trabajo
-
-#### 🚀 [Proyecto Integral End-to-End](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
-Un proyecto robusto que abarca todo el ciclo de vida del dato: desde el diseño del Modelo Entidad-Relación (DER), extracción y consultas complejas en SQL, procesamiento y analítica con Python, hasta la visualización final en un dashboard interactivo enfocado en negocio.
-
-#### 📊 [Portafolio SQL](https://github.com/luisrodriguezarce55-lab/portfolio-sql)
-Mi práctica en SQL: Diseño y modelado entidad-relación (DER), optimización de queries, uniones (JOINs) y lógica aplicada a la estructuración de bases de datos relacionales.
-
-#### 🐍 [Portafolio Python](https://github.com/luisrodriguezarce55-lab/portfolio-python)
-Mi práctica en Python: Análisis exploratorio de datos (EDA), limpieza de datasets, manipulación de datos y automatización de procesos de análisis.
+* **Data Visualization & BI**
+  <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
+  * **Report Modeling:** Connecting to clean data sources (SQL tables or processed DataFrames).
+  * **Dashboard Design:** Building interactive graphics and clear visualizations tailored to business metrics.
 
 ---
 
-### 📝 Notas de Clase y Laboratorios Diarios
+### 📁 Projects & Evidence of Work
 
-#### 🗒️ [Bitácora de Desarrollo Técnico](https://github.com/luisrodriguezarce55-lab/data-science-journal)
-Mi constancia académica diaria: Registro estructurado de mis apuntes de clase, ejercicios prácticos, retos de código semanales y laboratorios del programa de estudio. Aquí es donde se evidencia mi disciplina y evolución técnica día con día.
+#### 🚀 [End-to-End Integrated Project](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
+A robust project covering the entire data lifecycle: from Entity-Relationship Diagram (ERD) design, complex data extraction and queries in SQL, processing and analytics with Python, to the final visualization in an interactive dashboard focused on business performance.
 
----
+#### 📊 [SQL Portfolio](https://github.com/luisrodriguezarce55-lab/portfolio-sql)
+My practice in SQL: Entity-relationship modeling (ERD), query optimization, data joins (`JOINs`), and applied logic for structuring relational databases.
 
-### ✉️ Conectemos
-* 💼 **LinkedIn:** [Perfil Profesional de LinkedIn](https://linkedin.com/)
+#### 🐍 [Python Portfolio](https://github.com/luisrodriguezarce55-lab/portfolio-python)
+My practice in Python: Exploratory Data Analysis (EDA), dataset cleaning
