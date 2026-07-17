@@ -31,7 +31,7 @@ A través de este espacio documento mi evolución técnica día con día con tot
 | Institución | Programa / Credencial | Estado |
 | :--- | :--- | :---: |
 | **Programa Especializado** | Especialización en Ciencia de Datos | Estudiando Diariamente ⏳ |
-| **Formación Técnico** | Diseño y Optimización de Bases de Datos (SQL) | Completado ✅ |
+| **Formación Técnica** | Diseño y Optimización de Bases de Datos (SQL) | Completado ✅ |
 | _[Espacio disponible]_ | _Próxima certificación clave_ | - |
 | _[Espacio disponible]_ | _Próxima certificación clave_ | - |
 | _[Espacio disponible]_ | _Próxima certificación clave_ | - |
@@ -40,7 +40,7 @@ A través de este espacio documento mi evolución técnica día con día con tot
 
 ---
 
-### 📁 Repositorios y Evidencia de Trabajo
+### 📁 Proyectos y Evidencia de Trabajo
 
 #### 🚀 [Proyecto Integral End-to-End](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
 Un proyecto robusto que abarca todo el ciclo de vida del dato: desde el diseño del Modelo Entidad-Relación (DER), extracción y consultas complejas en SQL, procesamiento y analítica con Python, hasta la visualización final en un dashboard interactivo enfocado en negocio.
@@ -49,10 +49,14 @@ Un proyecto robusto que abarca todo el ciclo de vida del dato: desde el diseño 
 Mi práctica en SQL: Diseño y modelado entidad-relación (DER), optimización de queries, uniones (JOINs) y lógica aplicada a la estructuración de bases de datos relacionales.
 
 #### 🐍 [Portafolio Python](https://github.com/luisrodriguezarce55-lab/portfolio-python)
-Mi práctica en Python: Análisis exploratorio de datos (EDA), limpieza de datasets, manipulación de datos y automatización de procesos.
+Mi práctica en Python: Análisis exploratorio de datos (EDA), limpieza de datasets, manipulación de datos y automatización de procesos de análisis.
 
-#### 📝 [Bitácora de Desarrollo Técnico](https://github.com/luisrodriguezarce55-lab/data-science-journal)
-Mi constancia diaria: Registro estructurado de mis apuntes de clase, ejercicios prácticos y retos de código semanales. Aquí se ve mi evolución real.
+---
+
+### 📝 Notas de Clase y Laboratorios Diarios
+
+#### 🗒️ [Bitácora de Desarrollo Técnico](https://github.com/luisrodriguezarce55-lab/data-science-journal)
+Mi constancia académica diaria: Registro estructurado de mis apuntes de clase, ejercicios prácticos, retos de código semanales y laboratorios del programa de estudio. Aquí es donde se evidencia mi disciplina y evolución técnica día con día.
 
 ---
 
