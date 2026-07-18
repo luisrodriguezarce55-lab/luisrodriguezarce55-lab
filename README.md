@@ -72,7 +72,7 @@ My daily academic consistency: Structured logs of class notes, practical exercis
 | **Cisco** | Data_Science Essentials with Python | Completed ✅ |
 | **Cisco** | Introduction to Data Science | Completed ✅ |
 | **Cisco** | Data Analytics Essentials | Completed ✅ |
-| **McKinsey & Company** | _Next key certification_ | Completed ✅ |
+| **McKinsey & Company** | The McKinsey.org Forward  | Completed ✅ |
 | **Universidad Latina** | Ingenieria Industrial con enfasis en logistica| Completed ✅ |
 
 📂 **Looking for my full background?** You can review all my credentials, complementary coursework, and detailed academic support in my [Full Certification History](https://github.com/luisrodriguezarce55-lab/Full-Certification-History).
@@ -80,4 +80,4 @@ My daily academic consistency: Structured logs of class notes, practical exercis
 ---
 
 ### ✉️ Let's Connect
-* 💼 **LinkedIn:** [Professional LinkedIn Profile](https://linkedin.com/)
+* 💼 **LinkedIn:** [Professional LinkedIn Profile](https://www.linkedin.com/in/luis-felipe-rodriguez-arce/)
