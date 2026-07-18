@@ -68,11 +68,12 @@ My daily academic consistency: Structured logs of class notes, practical exercis
 
 | Institution | Program / Credencial | Status |
 | :--- | :--- | :---: |
-| **Specialized Program** | Data Science Specialization | Studying Daily ⏳ |
-| **Technical Training** | Database Design & Optimization (SQL) | Completed ✅ |
-| _[Available Slot]_ | _Next key certification_ | - |
-| _[Available Slot]_ | _Next key certification_ | - |
-| _[Available Slot]_ | _Next key certification_ | - |
+| **INCOEX power by Procomer** | Tecnico de Ciencia de Datos | Studying Daily ⏳ |
+| **Cisco** | Data_Science Essentials with Python | Completed ✅ |
+| **Cisco** | Introduction to Data Science | Completed ✅ |
+| **Cisco** | Data Analytics Essentials | Completed ✅ |
+| **McKinsey & Company** | _Next key certification_ | Completed ✅ |
+| **Universidad Latina** | Ingenieria Industrial con enfasis en logistica| Completed ✅ |
 
 📂 **Looking for my full background?** You can review all my credentials, complementary coursework, and detailed academic support in my [Full Certification History](https://github.com/luisrodriguezarce55-lab/Full-Certification-History).
 
