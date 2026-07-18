@@ -74,7 +74,7 @@ My daily academic consistency: Structured logs of class notes, practical exercis
 | _[Available Slot]_ | _Next key certification_ | - |
 | _[Available Slot]_ | _Next key certification_ | - |
 
-📂 **Looking for my full background?** You can review all my credentials, complementary coursework, and detailed academic support in my [Full Certification History](https://github.com/luisrodriguezarce55-lab/data-science-journal/tree/main/certificados).
+📂 **Looking for my full background?** You can review all my credentials, complementary coursework, and detailed academic support in my [Full Certification History](https://github.com/luisrodriguezarce55-lab/Full-Certification-History).
 
 ---
 
