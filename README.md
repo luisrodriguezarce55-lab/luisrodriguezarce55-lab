@@ -10,7 +10,7 @@
 
 ### 👤 My Philosophy & Approach
 
-I do not look to define my profile with theoretical titles; **I let my daily work and project results speak for me.** My current focus is 100% invested in studying, practicing, and mastering my skills in Data Science and Analytics.
+I do not look to define my profile with theoretical titles; **I let my daily work and project results speak for me.** My current focus is 100% invested in studying, practicing, mastering my skills and looking for work in Data Science and Analytics.
 
 Through this space, I document my technical progression day by day with total transparency. Every model, query, or script I share reflects my discipline and a genuine commitment to building solid foundations. As an added value, my background in Industrial Engineering and Digital Marketing in SEO provides me with a logical, methodical mindset oriented toward optimizing business processes.
 
