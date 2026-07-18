@@ -4,7 +4,7 @@
 
 ---
 
-🌐 **Language / Idioma:** [<img src="https://img.shields.io/badge/Ver_en_Español-🇪🇸-ebd4cb?style=for-the-badge&logoColor=black" alt="Ver en Español" />](README.es.md)
+🌐 **Language / Idioma:** [<img src="https://img.shields.io/badge/Ver_en_Español-🇪🇸-ebd4cb?style=for-the-badge&logoColor=black" alt="Ver en Español" />](https://github.com/luisrodriguezarce55-lab/Home-page-Spanish)
 
 ---
 
