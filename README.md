@@ -64,16 +64,17 @@ My daily academic consistency: Structured logs of class notes, practical exercis
 
 ---
 
-### 🏆 Featured Certifications (Top 5)
+### 🏆 Featured Certifications (Top 6)
 
 | Institution | Program / Credencial | Status |
 | :--- | :--- | :---: |
-| **INCOEX power by Procomer** | Tecnico de Ciencia de Datos | Studying Daily ⏳ |
+| **INCOEX power by Procomer** | Data Science Technician | Studying Daily ⏳ |
 | **Cisco** | Data_Science Essentials with Python | Completed ✅ |
 | **Cisco** | Introduction to Data Science | Completed ✅ |
 | **Cisco** | Data Analytics Essentials | Completed ✅ |
-| **McKinsey & Company** | The McKinsey.org Forward  | Completed ✅ |
-| **Universidad Latina** | Ingenieria Industrial con enfasis en logistica| Completed ✅ |
+| **Oracle & Alura** | SQL with MYSQL server from Oracle | Completed ✅ |
+| **Universidad Latina** | Ingenieria Industrial con enfasis en logistica | Completed ✅ |
+| **McKinsey & Company** | The McKinsey.org Forward | Completed ✅ |
 
 📂 **Looking for my full background?** You can review all my credentials, complementary coursework, and detailed academic support in my [Full Certification History](https://github.com/luisrodriguezarce55-lab/Full-Certification-History).
 
