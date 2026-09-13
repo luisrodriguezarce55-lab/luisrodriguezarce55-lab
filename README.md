@@ -10,9 +10,9 @@
 
 ### 👤 My Philosophy & Approach
 
-I don't define my profile with theoretical titles — **I let my daily work and project results speak for me.** I'm currently completing a Data Science program, and using it as my entry point into the tech industry. My real target, though, is more specific: **backend data infrastructure** — relational database design, query optimization, and eventually cloud database architecture.
+I don't define my profile with theoretical titles  **I let my daily work and project results speak for me.** I'm currently completing a Data Science program, and using it as my entry point into the tech industry. My real target, though, is more specific: **backend data infrastructure**  relational database design, query optimization, and eventually cloud database architecture.
 
-My background in Industrial Engineering gives me a structural, process-optimization lens I apply directly to data: how information flows, where bottlenecks form, and how to design systems that hold up under real use — not just look correct on paper.
+My background in Industrial Engineering gives me a structural, process optimization lens I apply directly to data: how information flows, where bottlenecks form, and how to design systems that hold up under real use not just look correct on paper.
 
 ---
 
@@ -42,14 +42,14 @@ My background in Industrial Engineering gives me a structural, process-optimizat
 ### 🛠️ Current Skills (Honest Snapshot)
 
 * **SQL — solid foundation, building depth**
-  ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+  <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
   * Core querying: `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`
   * Joins: `INNER`, `LEFT`, `RIGHT`, `FULL OUTER JOIN`
   * Entity-Relationship Diagram (ERD) design, normalization, primary/foreign keys
   * Currently deepening: window functions, CTEs, indexing, query performance
 
 * **Data Analysis & Environments (Python)**
-  <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /></a> <a href="#tools-in-daily-execution"></a>
+  <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /></a>
   * **Data Manipulation:** Null value handling, filtering, sorting, and data transformations using `Pandas`.
   * **Static Visualization & EDA:** Developing informative charts (histograms, scatter plots, boxplots) using `Matplotlib` and `Seaborn`.
   * **Exploratory Data Analysis:** Identifying patterns, trends, and preparing datasets for subsequent modeling or reporting.
@@ -66,43 +66,42 @@ My background in Industrial Engineering gives me a structural, process-optimizat
 📂 **Want to see my work in action?** Each project below shows the tools actually used, so you know exactly what to expect before clicking in.
 
 #### 🚀 [End-to-End Integrated Project — ATM System](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
 
-* **What it's about:** A robust project covering the entire data lifecycle, built around simulating a bank's ATM network — accounts, balances, withdrawal limits, and transaction history over time.
+* **What it's about:** A robust project covering the entire data lifecycle, built around simulating a bank's ATM network: accounts, balances, withdrawal limits, and transaction history over time.
 * **What to expect:** Entity-Relationship Diagram (ERD) design, complex SQL extraction and queries over transactional data, Python-based processing and fraud-pattern analytics, and a final interactive dashboard focused on business performance.
-* This is my first project focused on data that changes over time (transactions), not just static relationships — covering the full pipeline from raw schema to final visualization.
+
 
 #### 🎯 Tool-Specialized Projects
 
 *Smaller in scope than the project above, but each one focused on going deep with a specific tool.*
 
 #### 📊 [SQL Portfolio](https://github.com/luisrodriguezarce55-lab/portfolio-sql)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
 
-* **What it's about:** A running collection of SQL practice — the exercises and small builds behind my daily study, not a single big project.
+* **What it's about:** A running collection of SQL practice the exercises and small builds behind my daily study, not a single big project.
 * **What to expect:** Entity-relationship modeling, joins (`INNER`, `LEFT`, `RIGHT`, `FULL OUTER`), and applied logic for structuring relational databases.
-* Good place to see my SQL fundamentals in practice.
 
 #### 🐍 [Python Portfolio](https://github.com/luisrodriguezarce55-lab/portfolio-python)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
 
 * **What it's about:** A running collection of Python practice, focused on data work rather than general programming.
-* **What to expect:** Exploratory data analysis, dataset cleaning, and data manipulation exercises using Pandas — smaller, focused scripts rather than one large application.
+* **What to expect:** Exploratory data analysis, dataset cleaning, and data manipulation exercises using Pandas.
 
 ---
 
 ### 📝 Notes & Reflections
 
-📂 **Curious how I think through problems, not just what I build?** These are my running notes — daily journals from class, documented as I go.
+📂 **Curious how I think through problems, not just what I build?** These are my running notes daily journals from class, documented as I go.
 
 #### 🗒️ [Technical Development Journal](https://github.com/luisrodriguezarce55-lab/data-science-journal)
-Daily class notes, exercises, and coding challenges — documented as I go, not cleaned up after the fact.
+Daily class notes, exercises, and coding challenges, documented as I go, not cleaned up after the fact.
 
 ---
 
 ### 💭 Blog
 
-📂 **What I'll be posting here:** short reflections on things I hear or read about databases, data engineering, and cloud architecture — podcasts, videos, conversations, or news that catch my attention. Not polished articles, just genuine thinking out loud as I build familiarity with the field — what stood out, why it's interesting, and how it connects to what I'm learning.
+📂 **What I'll be posting here:** short reflections on things I hear or read about databases, data engineering, and cloud architecture podcasts, videos, conversations, or news that catch my attention. Not polished articles, just genuine thinking out loud as I build familiarity with the field what stood out, why it's interesting, and how it connects to what I'm learning.
 
 ---
 
@@ -124,3 +123,5 @@ Daily class notes, exercises, and coding challenges — documented as I go, not 
 
 ### ✉️ Let's Connect
 * 💼 **LinkedIn:** [Professional LinkedIn Profile](https://www.linkedin.com/in/luis-felipe-rodriguez-arce/)
+
+---
