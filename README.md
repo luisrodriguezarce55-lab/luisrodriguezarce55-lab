@@ -39,7 +39,7 @@ My background in Industrial Engineering gives me a structural, process optimizat
 
 ---
 
-### 🛠️ Current Skills (Honest Snapshot)
+### 🛠️ Current Skills
 
 * **SQL — solid foundation, building depth**
   <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
