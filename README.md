@@ -68,7 +68,7 @@ My background in Industrial Engineering gives me a structural, process optimizat
 #### 🚀 [End-to-End Integrated Project](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
 <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
 
-* **What it's about:** A robust project covering the entire data lifecycle.
+* **What it's about:** Robust projects covering the entire data lifecycle. (Data Ingestion, Storage, Processing/Transformation, Analysis/Model Serving, and Visualization/Orchestration.)
 * **What to expect:** Entity-Relationship Diagram (ERD) design, complex SQL extraction and queries over transactional data, Python-based processing and fraud-pattern analytics, and a final interactive dashboard focused on business performance.
 
 
