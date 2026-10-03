@@ -10,7 +10,7 @@
 ### 👤 My Philosophy & Approach
 
 I don't define my profile with theoretical titles  **I let my daily work and project results speak for me.** I'm currently completing a Data Science program, and using it as my entry point into the tech industry. My real target, though, is more specific: 
-**Ingeniería de datos y arquitectura en la nube:** desarrollo de pipelines listos para producción, trabajo con Azure y Databricks, y evolución progresiva hacia la arquitectura de datos en la nube.
+**data engineering and cloud architecture** building production-ready pipelines, working across Azure and Databricks, and eventually growing into cloud data architecture
 
 My background in Industrial Engineering gives me a structural, process optimization lens I apply directly to data: how information flows, where bottlenecks form, and how to design systems that hold up under real use not just look correct on paper.
 
