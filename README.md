@@ -1,7 +1,7 @@
 # Luis Felipe Rodríguez Arce 👋
-> **Industrial Engineer → Data Science → Data Engineering (in progress). Building toward data pipelines and cloud infrastructure)**
+> **Industrial Engineer → Data Science → Data Engineering (in progress). Building toward data pipelines and cloud infrastructure (SQL, Python, Azure, and Databricks)**
 > 
-> _SQL, Python, Azure, and Databricks — through daily practice, consistency, and structured problem-solving._
+> _Building toward backend data infrastructure relational database design, query optimization, and eventually cloud database architecture._
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### 👤 My Philosophy & Approach
 
-I don't define my profile with theoretical titles  **I let my daily work and project results speak for me.** I'm currently completing a Data Science program, and using it as my entry point into the tech industry. My real target, though, is more specific: **backend data infrastructure**  relational database design, query optimization, and eventually cloud database architecture.
+I don't define my profile with theoretical titles  **I let my daily work and project results speak for me.** I'm currently completing a Data Science program, and using it as my entry point into the tech industry. My real target, though, is more specific: **data engineering and cloud architecture** building production-ready pipelines, working across Azure and Databricks, and eventually growing into cloud data architecture..
 
 My background in Industrial Engineering gives me a structural, process optimization lens I apply directly to data: how information flows, where bottlenecks form, and how to design systems that hold up under real use not just look correct on paper.
 
