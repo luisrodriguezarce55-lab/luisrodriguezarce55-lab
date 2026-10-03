@@ -1,6 +1,6 @@
 # Luis Felipe Rodríguez Arce 👋
-> **Data Science → Database Systems & Cloud Architecture (in progress)**
-> _Building toward backend data infrastructure — SQL, schema design, and cloud databases — through daily practice, consistency, and structured problem-solving._
+> **Industrial Engineer → Data Science → Data Engineering (in progress). Building toward data pipelines and cloud infrastructure)**
+> _SQL, Python, Azure, and Databricks — through daily practice, consistency, and structured problem-solving._
 
 ---
 
