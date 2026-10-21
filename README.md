@@ -1,5 +1,5 @@
 # Luis Felipe Rodríguez Arce 👋
-> **Industrial Engineer → Data Science → Data Engineering (in progress). Building toward data pipelines and cloud infrastructure (SQL, Python, Azure, and Databricks). -** _Building toward data pipelines and cloud infrastructure (SQL, Python, Azure, and Databricks)._
+> **Industrial Engineer → Data Science → Data Engineering (in progress). Building toward data pipelines and solution architect (SQL, Python, Azure, and Databricks). -** _Building toward data pipelines and solution architect (SQL, Python, Azure, and Databricks)._
 
 ---
 
@@ -10,7 +10,7 @@
 ### 👤 My Philosophy & Approach
 
 I don't define my profile with theoretical titles  **I let my daily work and project results speak for me.** I'm currently completing a Data Science program, and using it as my entry point into the tech industry. My real target, though, is more specific: 
-**data engineering and cloud architecture** building production-ready pipelines, working across Azure and Databricks, and eventually growing into cloud data architecture
+**data engineering and solution architect** building production-ready pipelines, working across Azure and Databricks, and eventually growing into solution architect.
 
 My background in Industrial Engineering gives me a structural, process optimization lens I apply directly to data: how information flows, where bottlenecks form, and how to design systems that hold up under real use not just look correct on paper.
 
@@ -89,7 +89,7 @@ Daily class notes, exercises, and coding challenges, documented as I go, not cle
 
 ### 💭 Blog
 
-📂 **What I'll be posting here:** short reflections on things I hear or read about databases, data engineering, and cloud architecture podcasts, videos, conversations, or news that catch my attention. Not polished articles, just genuine thinking out loud as I build familiarity with the field what stood out, why it's interesting, and how it connects to what I'm learning.
+📂 **What I'll be posting here:** short reflections on things I hear or read about databases, data engineering, and solution architect podcasts, videos, conversations, or news that catch my attention. Not polished articles, just genuine thinking out loud as I build familiarity with the field what stood out, why it's interesting, and how it connects to what I'm learning.
 
 ---
 
