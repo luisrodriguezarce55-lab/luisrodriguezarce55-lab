@@ -75,10 +75,7 @@ My background in Industrial Engineering gives me a structural, process optimizat
 #### 📊 [Mini-Portfolio](https://github.com/luisrodriguezarce55-lab/portfolio-python)
 <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
 
-* **What it's about:** A running collection of Python practice, focused on data work rather than general programming.
-* **What to expect:** Exploratory data analysis, dataset cleaning, and data manipulation exercises using Pandas.
-* * **What it's about:** A running collection of SQL practice the exercises and small builds behind my daily study, not a single big project.
-* **What to expect:** Entity-relationship modeling, joins (`INNER`, `LEFT`, `RIGHT`, `FULL OUTER`), and applied logic for structuring relational databases.
+* A running collection of hands-on data exercises, small builds, and practice scripts. This space captures the day-to-day technical work behind my data engineering and data science journey—focusing on practical problem-solving rather than single monolithic projects
 
 ---
 
