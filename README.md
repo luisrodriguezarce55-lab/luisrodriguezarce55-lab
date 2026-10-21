@@ -65,7 +65,7 @@ My background in Industrial Engineering gives me a structural, process optimizat
 
 📂 **Want to see my work in action?** Each project below shows the tools actually used, so you know exactly what to expect before clicking in.
 
-#### 🚀 [End-to-End Integrated Project](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
+#### 🚀 [Data Science Portfolio](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
 <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
 
 * **What it's about:** Robust projects covering the entire data lifecycle. (Data Ingestion, Storage, Processing/Transformation, Analysis/Model Serving, and Visualization/Orchestration.)
