@@ -72,21 +72,13 @@ My background in Industrial Engineering gives me a structural, process optimizat
 * **What to expect:** Entity-Relationship Diagram (ERD) design, complex SQL extraction and queries over transactional data, Python-based processing and fraud-pattern analytics, and a final interactive dashboard focused on business performance.
 
 
-#### 🎯 Tool-Specialized Projects
-
-*Smaller in scope than the project above, but each one focused on going deep with a specific tool.*
-
-#### 📊 [SQL Portfolio](https://github.com/luisrodriguezarce55-lab/portfolio-sql)
-<a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
-
-* **What it's about:** A running collection of SQL practice the exercises and small builds behind my daily study, not a single big project.
-* **What to expect:** Entity-relationship modeling, joins (`INNER`, `LEFT`, `RIGHT`, `FULL OUTER`), and applied logic for structuring relational databases.
-
-#### 🐍 [Python Portfolio](https://github.com/luisrodriguezarce55-lab/portfolio-python)
-<a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+#### 📊 [Mini-Portfolio](https://github.com/luisrodriguezarce55-lab/portfolio-python)
+<a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
 
 * **What it's about:** A running collection of Python practice, focused on data work rather than general programming.
 * **What to expect:** Exploratory data analysis, dataset cleaning, and data manipulation exercises using Pandas.
+* * **What it's about:** A running collection of SQL practice the exercises and small builds behind my daily study, not a single big project.
+* **What to expect:** Entity-relationship modeling, joins (`INNER`, `LEFT`, `RIGHT`, `FULL OUTER`), and applied logic for structuring relational databases.
 
 ---
 
