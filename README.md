@@ -25,8 +25,7 @@ My background in Industrial Engineering gives me a structural, process optimizat
 [![Blog](https://img.shields.io/badge/💭_Blog-181717?style=for-the-badge)](#-blog)
 [![Certifications](https://img.shields.io/badge/🏆_Certifications-181717?style=for-the-badge)](#-certifications)
 
-[![SQL Portfolio](https://img.shields.io/badge/SQL_Portfolio-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/luisrodriguezarce55-lab/portfolio-sql)
-[![Python Portfolio](https://img.shields.io/badge/Python_Portfolio-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/luisrodriguezarce55-lab/portfolio-python)
+[![Mini Portfolio](https://img.shields.io/badge/Mini-Portafolio-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/luisrodriguezarce55-lab/Mini-portfolio)
 [![Technical Journal](https://img.shields.io/badge/Technical_Journal-F9A825?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/luisrodriguezarce55-lab/data-science-journal)
 [![Full Certification History](https://img.shields.io/badge/Full_Certification_History-6f42c1?style=for-the-badge)](https://github.com/luisrodriguezarce55-lab/Full-Certification-History)
 
