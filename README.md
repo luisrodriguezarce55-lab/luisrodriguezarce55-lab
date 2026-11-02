@@ -97,7 +97,7 @@ Daily class notes, exercises, and coding challenges, documented as I go, not cle
 
 | Institution | Program / Credential | Status |
 | :--- | :--- | :---: |
-| **INCOEX powered by Procomer** | Data Science Technician | Studying Daily ⏳ |
+| **INCOEX powered by Procomer** | Data Science Technician | Completed ✅ |
 | **Cisco** | Data Science Essentials with Python | Completed ✅ |
 | **Cisco** | Introduction to Data Science | Completed ✅ |
 | **Cisco** | Data Analytics Essentials | Completed ✅ |
