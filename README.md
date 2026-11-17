@@ -97,13 +97,11 @@ Daily class notes, exercises, and coding challenges, documented as I go, not cle
 
 | Institution | Program / Credential | Status |
 | :--- | :--- | :---: |
+| **Instituto Federal Rio Grade do Sul** | Oracle PL/SQL | Completed ✅ |
+| **Oracle & Alura** | SQL with MySQL Server from Oracle | Completed ✅ | 
 | **INCOEX powered by Procomer** | Data Science Technician | Completed ✅ |
 | **Cisco** | Data Science Essentials with Python | Completed ✅ |
-| **Cisco** | Introduction to Data Science | Completed ✅ |
-| **Cisco** | Data Analytics Essentials | Completed ✅ |
-| **Oracle & Alura** | SQL with MySQL Server from Oracle | Completed ✅ |
 | **Universidad Latina** | Ingeniería Industrial con énfasis en logística | Completed ✅ |
-| **McKinsey & Company** | The McKinsey.org Forward | Completed ✅ |
 
 📂 **Looking for my full background?** You can review all my credentials, complementary coursework, and detailed academic support in my [Full Certification History](https://github.com/luisrodriguezarce55-lab/Full-Certification-History).
 
