@@ -3,7 +3,7 @@
 
 ---
 
-🌐 **Language / Idioma:**   [<img src="https://img.shields.io/badge/Ver_en_Español-🇪🇸-ebd4cb?style=for-the-badge&logoColor=black" alt="Ver en Español" />](https://github.com/luisrodriguezarce55-lab/Home-page-Spanish)
+🌐 **Language / Idioma:**  &nbsp; [<img src="https://img.shields.io/badge/Ver_en_Español-🇪🇸-ebd4cb?style=for-the-badge&logoColor=black" alt="Ver en Español" />](https://github.com/luisrodriguezarce55-lab/Home-page-Spanish) &nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/Ver_em_Português-🇧🇷-c8e6c9?style=for-the-badge&logoColor=black" alt="Ver em Português" />](https://github.com/luisrodriguezarce55-lab/Home-page-Portuguese)
 
 ---
 
